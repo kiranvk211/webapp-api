@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/33ab6401-b930-4fd6-bf4f-ffb840c5c763/resourceGroups/wipro/providers/Microsoft.Web/sites/MyAngular123",
+    "appService.deploySubpath": "dist\\Angularcrud"
+}
